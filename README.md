@@ -17,10 +17,10 @@ A list of Text-to-3D works. This repo mainly contain the 3D learning from 2D pri
 
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988), Ben Poole, et al., ICLR 2022 | [project page](https://dreamfusion3d.github.io/) [github](https://github.com/threestudio-project/threestudio)
 
-- [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/abs/2211.10440), Chen-Hsuan Lin., CVPR 2023 | [project page](https://research.nvidia.com/labs/dir/magic3d/) [github](https://github.com/threestudio-project/threestudio)
+- [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/abs/2211.10440), Chen-Hsuan Lin, et al ., CVPR 2023 | [project page](https://research.nvidia.com/labs/dir/magic3d/) [github](https://github.com/threestudio-project/threestudio)
 
--[Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/abs/2211.07600), Gal Metzer., CVPR 2023 | [github](https://github.com/eladrich/latent-nerf)
+- [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/abs/2211.07600), Gal Metzer, et al., CVPR 2023 | [github](https://github.com/eladrich/latent-nerf)
 
--[Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://arxiv.org/abs/2303.13873), Rui Chen., ICCV 2023 | [github](https://github.com/Gorilla-Lab-SCUT/Fantasia3D)
+- [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://arxiv.org/abs/2303.13873), Rui Chen, et al., ICCV 2023 | [github](https://github.com/Gorilla-Lab-SCUT/Fantasia3D)
 
--[ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://arxiv.org/abs/2305.16213), Zhengyi Wang., | [github](https://github.com/threestudio-project/threestudio)
+- [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://arxiv.org/abs/2305.16213), Zhengyi Wang, et al., | [github](https://github.com/threestudio-project/threestudio)
