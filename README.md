@@ -3,7 +3,7 @@
 A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D priors model (stable diffusion, CLIP...) works. 
 
 
-<details>
+<details open>
 <summary><strong>Text to 3D</strong></summary>
   
 ## Before 2022
