@@ -52,8 +52,8 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 </details>
 
-<details>
-<summary>Image to 3D/summary>
+<details open>
+<summary><strong>Image to 3D</strong></summary>
 
 ## 2023
 - [RealFusion 360◦ Reconstruction of Any Object from a Single Image](https://arxiv.org/abs/2302.10663), Luke Melas-Kyriazi, et al., ICCV 2023 | [github](https://github.com/lukemelas/realfusion)
