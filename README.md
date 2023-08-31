@@ -48,7 +48,9 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [TextMesh: Generation of Realistic 3D Meshes From Text Prompts](https://arxiv.org/abs/2304.12439), Christina Tsalicoglou, et al., Arxiv 2023 | [github](https://github.com/threestudio-project/threestudio)
 
-- [Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond.](https://arxiv.org/abs/2304.04968) Mohammadreza Armandpour, et al., Arxiv 2023 | [github](https://github.com/Perp-Neg/Perp-Neg-stablediffusion) 
+- [Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond.](https://arxiv.org/abs/2304.04968) Mohammadreza Armandpour, et al., Arxiv 2023 | [github](https://github.com/Perp-Neg/Perp-Neg-stablediffusion)
+
+- [IT3D: Improved Text-to-3D Generation with Explicit View Synthesis.](https://arxiv.org/abs/2308.11473) Yiwen Chen, et al., Arxiv 2023 | [github](https://github.com/buaacyw/IT3D-text-to-3D)
 
 </details>
 
