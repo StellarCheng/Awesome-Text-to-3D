@@ -3,8 +3,8 @@
 A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D priors model (stable diffusion, CLIP...) works. 
 
 
-<details open>
-<summary>Text to 3D/summary>
+<details>
+<summary><strong>Text to 3D</strong></summary>
   
 ## Before 2022
 - [Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455), Ajay Jain et al., CVPR 2022 | [github](https://github.com/google-research/google-research/tree/master/dreamfields)
