@@ -6,7 +6,7 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 <details open>
 <summary><strong>Text to 3D</strong></summary>
   
-## <span style="font-size: smaller;">Before 2022</span>
+## Before 2022
 - [Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455), Ajay Jain et al., CVPR 2022 | [github](https://github.com/google-research/google-research/tree/master/dreamfields)
 
 - [CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation](https://arxiv.org/abs/2110.02624), Aditya Sanghi et al., CVPR 2022 | [github](https://github.com/AutodeskAILab/Clip-Forge)
