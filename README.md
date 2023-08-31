@@ -69,3 +69,4 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://arxiv.org/abs/2303.14184) Junshu Tang et al., ICCV 2023 | [github](https://github.com/junshutang/Make-It-3D)
 
 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://arxiv.org/abs/2303.11328) Ruoshi Liu, et al., ICCV2023 | [github](https://github.com/cvlab-columbia/zero123)
+  </details>
