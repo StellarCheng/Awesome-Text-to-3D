@@ -21,7 +21,7 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988), Ben Poole, et al., ICLR 2022 | [project page](https://dreamfusion3d.github.io/) [github](https://github.com/threestudio-project/threestudio)
 
-- [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation](https://arxiv.org/abs/2212.00774), Haochen Wang, et al., CVPR 2023 | [project page]([https://dreamfusion3d.github.io/](https://pals.ttic.edu/p/score-jacobian-chaining)) [github](https://github.com/pals-ttic/sjc/)
+- [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation](https://arxiv.org/abs/2212.00774), Haochen Wang, et al., CVPR 2023 | [project page](https://pals.ttic.edu/p/score-jacobian-chaining) [github](https://github.com/pals-ttic/sjc/)
  
 
 - [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/abs/2211.10440), Chen-Hsuan Lin, et al ., CVPR 2023 | [project page](https://research.nvidia.com/labs/dir/magic3d/) [github](https://github.com/threestudio-project/threestudio)
