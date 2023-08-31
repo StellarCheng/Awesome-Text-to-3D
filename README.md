@@ -52,7 +52,7 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 </details>
 
-<details open>
+<details>
 <summary>Image to 3D/summary>
 
 ## 2023
