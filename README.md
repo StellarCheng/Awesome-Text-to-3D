@@ -52,6 +52,8 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [IT3D: Improved Text-to-3D Generation with Explicit View Synthesis.](https://arxiv.org/abs/2308.11473) Yiwen Chen, et al., Arxiv 2023 | [github](https://github.com/buaacyw/IT3D-text-to-3D)
 
+- [Collaborative Score Distillation for Consistent Visual Synthesis](https://arxiv.org/pdf/2307.04787.pdf) Subin Kim, et al., Arxiv 2023 | [project page](https://subin-kim-cv.github.io/CSD/index.html)
+
 </details>
 
 <details open>
