@@ -54,7 +54,7 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [Collaborative Score Distillation for Consistent Visual Synthesis](https://arxiv.org/pdf/2307.04787.pdf) Subin Kim, et al., Arxiv 2023 | [project page](https://subin-kim-cv.github.io/CSD/index.html)
 
-- [MVDREAM: MULTI-VIEW DIFFUSION FOR 3D GENERATION](https://arxiv.org/pdf/2308.16512.pdf) Yichun Shi, et al., Arxiv 2023 | [priject page](https://mv-dream.github.io/)
+- [MVDREAM: MULTI-VIEW DIFFUSION FOR 3D GENERATION](https://arxiv.org/pdf/2308.16512.pdf) Yichun Shi, et al., Arxiv 2023 | [project page](https://mv-dream.github.io/)
 
 - [EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior](https://arxiv.org/pdf/2308.13223.pdf) Minda Zhao, et al., Arxiv 2023
 
