@@ -58,7 +58,7 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior](https://arxiv.org/pdf/2308.13223.pdf) Minda Zhao, et al., Arxiv 2023
 
-- [TextMesh: Generation of Realistic 3D Meshes From Text Prompts](https://arxiv.org/pdf/2304.12439.pdf) Christina Tsalicoglou, et al. Arxiv 2023 [github](https://github.com/threestudio-project/threestudio)
+- [TextMesh: Generation of Realistic 3D Meshes From Text Prompts](https://arxiv.org/pdf/2304.12439.pdf) Christina Tsalicoglou, et al. Arxiv 2023 | [github](https://github.com/threestudio-project/threestudio)
 
 </details>
 
