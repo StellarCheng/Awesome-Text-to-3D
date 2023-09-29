@@ -66,6 +66,8 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [TEXT-TO-3D USING GAUSSIAN SPLATTING](https://arxiv.org/pdf/2309.16585.pdf) Zilong Chen., Arxiv 2023 | [github](https://github.com/gsgen3d/gsgen)
 
+- [Dreameditor: Text-driven 3d scene editing with neural fields](https://arxiv.org/abs/2306.13455) Jingyu Zhuang., SIGGRAPH Asia 2023 
+
 </details>
 
 <details open>
