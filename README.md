@@ -62,6 +62,10 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR](https://arxiv.org/pdf/2308.09278.pdf) Xudong Xu, et al., Arxiv 2023 | [project page](https://sheldontsui.github.io/projects/Matlaber)
 
+- [DREAMGAUSSIAN: GENERATIVE GAUSSIAN SPLATTING FOR EFFICIENT 3D CONTENT CREATION](https://arxiv.org/abs/2309.16653) Jiaxiang Tang., Arxiv 2023 | [github](https://github.com/dreamgaussian/dreamgaussian)
+
+- [TEXT-TO-3D USING GAUSSIAN SPLATTING](https://arxiv.org/pdf/2309.16585.pdf) Zilong Chen., Arxiv 2023 
+
 </details>
 
 <details open>
