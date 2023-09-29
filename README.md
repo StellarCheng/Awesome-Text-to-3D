@@ -64,7 +64,7 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [DREAMGAUSSIAN: GENERATIVE GAUSSIAN SPLATTING FOR EFFICIENT 3D CONTENT CREATION](https://arxiv.org/abs/2309.16653) Jiaxiang Tang., Arxiv 2023 | [github](https://github.com/dreamgaussian/dreamgaussian)
 
-- [TEXT-TO-3D USING GAUSSIAN SPLATTING](https://arxiv.org/pdf/2309.16585.pdf) Zilong Chen., Arxiv 2023 
+- [TEXT-TO-3D USING GAUSSIAN SPLATTING](https://arxiv.org/pdf/2309.16585.pdf) Zilong Chen., Arxiv 2023 | [github](https://github.com/gsgen3d/gsgen)
 
 </details>
 
