@@ -66,7 +66,15 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [TEXT-TO-3D USING GAUSSIAN SPLATTING](https://arxiv.org/pdf/2309.16585.pdf) Zilong Chen., Arxiv 2023 | [github](https://github.com/gsgen3d/gsgen)
 
-- [Dreameditor: Text-driven 3d scene editing with neural fields](https://arxiv.org/abs/2306.13455) Jingyu Zhuang., SIGGRAPH Asia 2023 
+- [Dreameditor: Text-driven 3d scene editing with neural fields](https://arxiv.org/abs/2306.13455) Jingyu Zhuang., SIGGRAPH Asia 2023
+
+- [SWEETDREAMER: ALIGNING GEOMETRIC PRIORS IN 2D DIFFUSION FOR CONSISTENT TEXT-TO-3D](https://arxiv.org/pdf/2310.02596.pdf) Weiyu Li., Arxiv 2023 | [project page](https://sweetdreamer3d.github.io/)
+
+- [Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models](https://arxiv.org/pdf/2310.03020.pdf) Jianglong Ye., Arxiv 2023 |[project page](https://jianglongye.com/consistent123/)
+
+- [ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF](https://arxiv.org/pdf/2310.02712.pdf) Jangho Park., Arxiv 2023
+
+- [T3Bench: Benchmarking Current Progress in Text-to-3D Generation](https://arxiv.org/pdf/2310.02977.pdf) Yuze He., Arxiv 2023 | [project page](https://t3bench.com/)
 
 </details>
 
