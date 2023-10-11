@@ -101,4 +101,6 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 - [MVDream: Multi-view Diffusion for 3D Generation](https://arxiv.org/abs/2308.16512) Yichun Shi, et al., Arxiv 2023 | [github](https://github.com/MV-Dream/MVDream)
 
 - [Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors](https://arxiv.org/abs/2309.17261) Yukang Lin, et al., Arxiv 2023 | [github](https://consistent123.github.io/)
+
+- [HiFi-123: Towards High-fidelity One Image to 3D Content Generation](https://arxiv.org/pdf/2310.06744.pdf) Wangbo Yu, et al., Arxiv 2023 | [github](https://github.com/Drexubery/HiFi-123)
   </details>
