@@ -103,4 +103,6 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 - [Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors](https://arxiv.org/abs/2309.17261) Yukang Lin, et al., Arxiv 2023 | [github](https://consistent123.github.io/)
 
 - [HiFi-123: Towards High-fidelity One Image to 3D Content Generation](https://arxiv.org/pdf/2310.06744.pdf) Wangbo Yu, et al., Arxiv 2023 | [github](https://github.com/Drexubery/HiFi-123)
+
+- [ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion](https://arxiv.org/pdf/2310.10343.pdf) Jiayu Yang, et al., Arxiv 2023 | [Project Page](https://jiayuyang.github.io/Consist_Net/)
   </details>
