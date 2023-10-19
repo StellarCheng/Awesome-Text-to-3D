@@ -78,6 +78,8 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [IPDreamer: Appearance-Controllable 3D Object Generation with Image Prompts](https://arxiv.org/pdf/2310.05375.pdf) Bohan Zeng, et al., Arxiv 2023
 
+- [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://arxiv.org/pdf/2011.12948.pdf) Xinhua Cheng, et al., Arxiv 2023 | [project page](https://cxh0519.github.io/projects/Progressive3D/index.html)
+
 </details>
 
 <details open>
