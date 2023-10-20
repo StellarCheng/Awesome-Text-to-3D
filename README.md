@@ -82,6 +82,8 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [INSTANT3D: FAST TEXT-TO-3D WITH SPARSE-VIEW GENERATION AND LARGE RECONSTRUCTION MODEL](https://openreview.net/pdf?id=2lDQLiH1W4)   Arxiv 2023 | [project page](https://instant-3d.github.io/)
 
+- [LRM: Large Reconstruction Model for Single Image to 3D](https://openreview.net/pdf?id=sllU8vvsFF) Arxiv 2023 | [project page](https://scalei3d.github.io/LRM/)
+
 </details>
 
 <details open>
