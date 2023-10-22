@@ -84,6 +84,8 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [LRM: Large Reconstruction Model for Single Image to 3D](https://openreview.net/pdf?id=sllU8vvsFF) Arxiv 2023 | [project page](https://scalei3d.github.io/LRM/)
 
+- [ENHANCING HIGH-RESOLUTION 3D GENERATION THROUGH PIXEL-WISE GRADIENT CLIPPING](https://arxiv.org/pdf/2310.12474.pdf) Zijie Pan, et al., Arxiv 2023 | [github](https://github.com/fudan-zvg/PGC-3D) 
+
 </details>
 
 <details open>
