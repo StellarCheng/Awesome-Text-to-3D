@@ -123,4 +123,6 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 - [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://arxiv.org/abs/2310.16818) Jingxiang Sun, et al., Arxiv 2023 | [Project Page](https://mrtornado24.github.io/DreamCraft3D/) [github](https://github.com/deepseek-ai/DreamCraft3D)
 
 - [Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model](https://arxiv.org/pdf/2310.15110.pdf) Ruoxi Shi, et al., Arxiv 2023 | [github](https://github.com/SUDO-AI-3D/zero123plus)
+
+- [Wonder3D: Single Image to 3D using Cross-Domain Diffusion](https://arxiv.org/pdf/2310.15008.pdf) Xiaoxiao Long, et al., Arxiv 2023 | [github](https://github.com/xxlong0/Wonder3D)
   </details>
