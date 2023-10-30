@@ -121,4 +121,6 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 - [ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion](https://arxiv.org/pdf/2310.10343.pdf) Jiayu Yang, et al., Arxiv 2023 | [Project Page](https://jiayuyang.github.io/Consist_Net/)
 
 - [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://arxiv.org/abs/2310.16818) Jingxiang Sun, et al., Arxiv 2023 | [Project Page](https://mrtornado24.github.io/DreamCraft3D/) [github](https://github.com/deepseek-ai/DreamCraft3D)
+
+- [Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model](https://arxiv.org/pdf/2310.15110.pdf) Ruoxi Shi, et al., Arxiv 2023 | [github](https://github.com/SUDO-AI-3D/zero123plus)
   </details>
