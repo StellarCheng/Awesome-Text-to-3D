@@ -90,6 +90,8 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [STEINDREAMER: VARIANCE REDUCTION FOR TEXTTO-3D SCORE DISTILLATION VIA STEIN IDENTITY](https://openreview.net/pdf?id=lK4QHgjUU8) Openreview 2023
 
+- [TEXT-TO-3D WITH CLASSIFIER SCORE DISTILLATION](https://xinyu-andy.github.io/Classifier-Score-Distillation/#) Xin Yu, et al., Arxiv 2023., | [project page](https://xinyu-andy.github.io/Classifier-Score-Distillation/)
+
 </details>
 
 <details open>
