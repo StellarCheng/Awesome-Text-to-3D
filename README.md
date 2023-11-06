@@ -94,6 +94,8 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [Noise-Free Score Distillation](https://arxiv.org/pdf/2310.17590.pdf) Oren Katzir, et al., Arxiv 2023 | [github](https://github.com/orenkatzir/nfsd)
 
+- [TEXT-TO-3D GENERATION WITH BIDIRECTIONAL DIFFUSION USING BOTH 2D AND 3D PRIORS](https://openreview.net/pdf?id=V8PhVhb4pp) Openreview 2023
+
 </details>
 
 <details open>
