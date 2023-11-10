@@ -131,4 +131,6 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 - [Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model](https://arxiv.org/pdf/2310.15110.pdf) Ruoxi Shi, et al., Arxiv 2023 | [github](https://github.com/SUDO-AI-3D/zero123plus)
 
 - [Wonder3D: Single Image to 3D using Cross-Domain Diffusion](https://arxiv.org/pdf/2310.15008.pdf) Xiaoxiao Long, et al., Arxiv 2023 | [github](https://github.com/xxlong0/Wonder3D)
+
+- [ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation](https://image-dream.github.io/) Peng Wang, et al., Arxiv 2023 | [Project Page](image-dream.github.io)
   </details>
