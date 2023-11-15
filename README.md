@@ -96,6 +96,8 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [TEXT-TO-3D GENERATION WITH BIDIRECTIONAL DIFFUSION USING BOTH 2D AND 3D PRIORS](https://openreview.net/pdf?id=V8PhVhb4pp) Openreview 2023
 
+- [Instant3D : Instant Text-to-3D Generation](https://arxiv.org/pdf/2311.08403.pdf) Ming Li, et al., Arxiv 2023 | [Project Page](https://ming1993li.github.io/Instant3DProj/) 
+
 </details>
 
 <details open>
