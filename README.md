@@ -96,7 +96,11 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [TEXT-TO-3D GENERATION WITH BIDIRECTIONAL DIFFUSION USING BOTH 2D AND 3D PRIORS](https://openreview.net/pdf?id=V8PhVhb4pp) Openreview 2023
 
-- [Instant3D : Instant Text-to-3D Generation](https://arxiv.org/pdf/2311.08403.pdf) Ming Li, et al., Arxiv 2023 | [Project Page](https://ming1993li.github.io/Instant3DProj/) 
+- [Instant3D : Instant Text-to-3D Generation](https://arxiv.org/pdf/2311.08403.pdf) Ming Li, et al., Arxiv 2023 | [Project Page](https://ming1993li.github.io/Instant3DProj/)
+
+- [LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching](https://arxiv.org/pdf/2311.11284.pdf) Yixun Liang, et al., Arxiv 2023 | [github](https://github.com/EnVision-Research/LucidDreamer)
+
+- [GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise](https://arxiv.org/pdf/2311.11221.pdf) Xinhai Li, et al., Arxiv 2023
 
 </details>
 
