@@ -140,5 +140,9 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation](https://image-dream.github.io/) Peng Wang, et al., Arxiv 2023 | [Project Page](image-dream.github.io)
 
-- [One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion](https://arxiv.org/abs/2311.07885) Minghua Liu, et al., Arxiv 2023 | [github](https://github.com/SUDO-AI-3D/One2345plus)  [Project Page](https://sudo-ai-3d.github.io/One2345plus_page/)  
+- [One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion](https://arxiv.org/abs/2311.07885) Minghua Liu, et al., Arxiv 2023 | [github](https://github.com/SUDO-AI-3D/One2345plus)  [Project Page](https://sudo-ai-3d.github.io/One2345plus_page/)
+
+- [DMV3D:Denoising Multi-View Diffusion using 3D Large Reconstruction Model](https://arxiv.org/abs/2311.09217) Yinghao Xu, et al., Arxiv 2023 | [Project Page](https://justimyhxu.github.io/projects/dmv3d/)
+
+- [PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction](https://arxiv.org/abs/2311.12024) Peng Wang, et al., Arxiv 2023 | [Project Page](https://totoro97.github.io/pf-lrm/)
   </details>
