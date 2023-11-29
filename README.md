@@ -1,6 +1,6 @@
 # Awesome-Text/Image-to-3D
 
-A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D priors model (stable diffusion, CLIP...) works. 
+A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D priors model (stable diffusion, CLIP...) works. Training 3D generative models directly on 3D data has also shown promising results. Therefore, this repository has also listed these methods separately.
 
 
 <details open>
@@ -80,10 +80,6 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://arxiv.org/pdf/2011.12948.pdf) Xinhua Cheng, et al., Arxiv 2023 | [project page](https://cxh0519.github.io/projects/Progressive3D/index.html)
 
-- [INSTANT3D: FAST TEXT-TO-3D WITH SPARSE-VIEW GENERATION AND LARGE RECONSTRUCTION MODEL](https://openreview.net/pdf?id=2lDQLiH1W4)   Arxiv 2023 | [project page](https://instant-3d.github.io/)
-
-- [LRM: Large Reconstruction Model for Single Image to 3D](https://openreview.net/pdf?id=sllU8vvsFF) Arxiv 2023 | [project page](https://scalei3d.github.io/LRM/)
-
 - [ENHANCING HIGH-RESOLUTION 3D GENERATION THROUGH PIXEL-WISE GRADIENT CLIPPING](https://arxiv.org/pdf/2310.12474.pdf) Zijie Pan, et al., Arxiv 2023 | [github](https://github.com/fudan-zvg/PGC-3D)
 
 - [TAMING MODE COLLAPSE IN SCORE DISTILLATION FOR TEXT-TO-3D GENERATION](https://openreview.net/pdf?id=IMkRWksMbD) Openreview 2023
@@ -95,8 +91,6 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 - [Noise-Free Score Distillation](https://arxiv.org/pdf/2310.17590.pdf) Oren Katzir, et al., Arxiv 2023 | [github](https://github.com/orenkatzir/nfsd)
 
 - [TEXT-TO-3D GENERATION WITH BIDIRECTIONAL DIFFUSION USING BOTH 2D AND 3D PRIORS](https://openreview.net/pdf?id=V8PhVhb4pp) Openreview 2023
-
-- [Instant3D : Instant Text-to-3D Generation](https://arxiv.org/pdf/2311.08403.pdf) Ming Li, et al., Arxiv 2023 | [Project Page](https://ming1993li.github.io/Instant3DProj/)
 
 - [LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching](https://arxiv.org/pdf/2311.11284.pdf) Yixun Liang, et al., Arxiv 2023 | [github](https://github.com/EnVision-Research/LucidDreamer)
 
@@ -141,8 +135,20 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 - [ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation](https://image-dream.github.io/) Peng Wang, et al., Arxiv 2023 | [Project Page](image-dream.github.io)
 
 - [One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion](https://arxiv.org/abs/2311.07885) Minghua Liu, et al., Arxiv 2023 | [github](https://github.com/SUDO-AI-3D/One2345plus)  [Project Page](https://sudo-ai-3d.github.io/One2345plus_page/)
+  </details>
 
+
+<details open>
+<summary><strong>Direct 3D Generation</strong></summary>
+  
 - [DMV3D:Denoising Multi-View Diffusion using 3D Large Reconstruction Model](https://arxiv.org/abs/2311.09217) Yinghao Xu, et al., Arxiv 2023 | [Project Page](https://justimyhxu.github.io/projects/dmv3d/)
 
 - [PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction](https://arxiv.org/abs/2311.12024) Peng Wang, et al., Arxiv 2023 | [Project Page](https://totoro97.github.io/pf-lrm/)
-  </details>
+
+- [Instant3D : Instant Text-to-3D Generation](https://arxiv.org/pdf/2311.08403.pdf) Ming Li, et al., Arxiv 2023 | [Project Page](https://ming1993li.github.io/Instant3DProj/)
+
+- [LRM: Large Reconstruction Model for Single Image to 3D](https://openreview.net/pdf?id=sllU8vvsFF) Yicong Hong., et al., Arxiv 2023 | [project page](https://scalei3d.github.io/LRM/)
+
+- [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/abs/2311.15475) Yawar Siddiqui, et al., Arxiv 2023 | [project page](https://nihalsid.github.io/mesh-gpt/)
+
+
