@@ -141,6 +141,8 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 <details open>
 <summary><strong>Direct 3D Generation</strong></summary>
   
+## 2023
+  
 - [DMV3D:Denoising Multi-View Diffusion using 3D Large Reconstruction Model](https://arxiv.org/abs/2311.09217) Yinghao Xu, et al., Arxiv 2023 | [Project Page](https://justimyhxu.github.io/projects/dmv3d/)
 
 - [PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction](https://arxiv.org/abs/2311.12024) Peng Wang, et al., Arxiv 2023 | [Project Page](https://totoro97.github.io/pf-lrm/)
