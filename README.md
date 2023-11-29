@@ -1,6 +1,6 @@
 # Awesome-Text/Image-to-3D
 
-A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D priors model (stable diffusion, CLIP...) works. Training 3D generative models directly on 3D data has also shown promising results. Therefore, this repository has also listed these methods separately.
+A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D priors model (stable diffusion, CLIP...) works. Recently, training 3D generative models directly on 3D data has also shown promising results. Therefore, this repository has listed these methods separately.
 
 
 <details open>
