@@ -97,7 +97,9 @@ A list of Text/Img-to-3D works. This repo mainly contains the 3D learning from 2
 
 - [GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise](https://arxiv.org/pdf/2311.11221.pdf) Xinhai Li, et al., Arxiv 2023
 
-- [RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D](https://arxiv.org/abs/2311.16918) Lingteng Qiu,. et al., Arxiv 2023 | [project page](https://lingtengqiu.github.io/RichDreamer/)  
+- [RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D](https://arxiv.org/abs/2311.16918) Lingteng Qiu., et al., Arxiv 2023 | [project page](https://lingtengqiu.github.io/RichDreamer/)
+
+- [Learn to Optimize Denoising Scores for 3D Generation - A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting] Xiaofeng Yang., et al., Arxiv 2023 | [project page](https://yangxiaofeng.github.io/demo_diffusion_prior/)
 
 </details>
 
