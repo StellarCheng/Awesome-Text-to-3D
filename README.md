@@ -28,6 +28,7 @@ A list of Text/Img-to-3D works. This repo mainly contain the 3D learning from 2D
 
 - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/abs/2211.07600), Gal Metzer, et al., CVPR 2023 | [github](https://github.com/eladrich/latent-nerf)
 
+-[TAPS3D: Text-Guided 3D Textured Shape Generation from Pseudo Supervision](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_TAPS3D_Text-Guided_3D_Textured_Shape_Generation_From_Pseudo_Supervision_CVPR_2023_paper.pdf), Jiacheng Wei, et al., CVPR 2023 | [github](https://github.com/plusmultiply/TAPS3D)
 
 ## 2023
 - [Shap·E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Heewoo Jun, et al., | [github](https://github.com/openai/shap-e)
