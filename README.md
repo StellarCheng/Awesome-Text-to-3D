@@ -140,6 +140,9 @@ A list of Text/Img-to-3D works. This repo mainly contains the 3D learning from 2
 - [ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation](https://image-dream.github.io/) Peng Wang, et al., Arxiv 2023 | [Project Page](image-dream.github.io)
 
 - [One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion](https://arxiv.org/abs/2311.07885) Minghua Liu, et al., Arxiv 2023 | [github](https://github.com/SUDO-AI-3D/One2345plus)  [Project Page](https://sudo-ai-3d.github.io/One2345plus_page/)
+
+- [Free3D: Consistent Novel View Synthesis without 3D Representation](https://chuanxiaz.com/free3d/) Chuanxia Zheng, et al., Arxiv 2023 | [github](https://github.com/lyndonzheng/Free3D)
+
   </details>
 
 
