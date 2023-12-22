@@ -101,6 +101,8 @@ A list of Text/Img-to-3D works. This repo mainly contains the 3D learning from 2
 
 - [Learn to Optimize Denoising Scores for 3D Generation - A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting](https://arxiv.org/abs/2312.04820) Xiaofeng Yang., et al., Arxiv 2023 | [project page](https://yangxiaofeng.github.io/demo_diffusion_prior/)
 
+- [GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models](https://arxiv.org/abs/2310.08529) Taoran Yi., et al., Arxiv 2023 | [project page](https://github.com/hustvl/GaussianDreamer)
+
 </details>
 
 <details open>
