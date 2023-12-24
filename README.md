@@ -147,11 +147,11 @@ A list of Text/Img-to-3D works. This repo mainly contains the 3D learning from 2
 
 - [Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting](https://arxiv.org/pdf/2312.13271.pdf) Junwu Zhang, et al., Arxiv 2023 | [github](https://github.com/junwuzhang19/repaint123)
 
--[Text2Immersion: Generative Immersive Scene with 3D Gaussians](https://ken-ouyang.github.io/text2immersion/index.html) Hao Ouyang, et al., Arxiv 2023 | [project page](https://ken-ouyang.github.io/text2immersion/index.html)
+- [Text2Immersion: Generative Immersive Scene with 3D Gaussians](https://ken-ouyang.github.io/text2immersion/index.html) Hao Ouyang, et al., Arxiv 2023 | [project page](https://ken-ouyang.github.io/text2immersion/index.html)
 
--[StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D](https://arxiv.org/pdf/2312.02189.pdf) Pengsheng Guo, et al., Arxiv 2023
+- [StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D](https://arxiv.org/pdf/2312.02189.pdf) Pengsheng Guo, et al., Arxiv 2023
 
--[DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling](https://arxiv.org/abs/2311.17082) Linqi Zhou, et al., Arxiv 2023 | [project page](https://alexzhou907.github.io/dreampropeller_page/)
+- [DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling](https://arxiv.org/abs/2311.17082) Linqi Zhou, et al., Arxiv 2023 | [project page](https://alexzhou907.github.io/dreampropeller_page/)
 
   </details>
 
