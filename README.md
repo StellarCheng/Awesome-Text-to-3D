@@ -146,6 +146,13 @@ A list of Text/Img-to-3D works. This repo mainly contains the 3D learning from 2
 - [Free3D: Consistent Novel View Synthesis without 3D Representation](https://chuanxiaz.com/free3d/) Chuanxia Zheng, et al., Arxiv 2023 | [github](https://github.com/lyndonzheng/Free3D)
 
 - [Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting](https://arxiv.org/pdf/2312.13271.pdf) Junwu Zhang, et al., Arxiv 2023 | [github](https://github.com/junwuzhang19/repaint123)
+
+-[Text2Immersion: Generative Immersive Scene with 3D Gaussians](https://ken-ouyang.github.io/text2immersion/index.html) Hao Ouyang, et al., Arxiv 2023 | [project page](https://ken-ouyang.github.io/text2immersion/index.html)
+
+-[StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D](https://arxiv.org/pdf/2312.02189.pdf) Pengsheng Guo, et al., Arxiv 2023
+
+-[DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling](https://arxiv.org/abs/2311.17082) Linqi Zhou, et al., Arxiv 2023 | [project page](https://alexzhou907.github.io/dreampropeller_page/)
+
   </details>
 
 
@@ -163,5 +170,7 @@ A list of Text/Img-to-3D works. This repo mainly contains the 3D learning from 2
 - [LRM: Large Reconstruction Model for Single Image to 3D](https://openreview.net/pdf?id=sllU8vvsFF) Yicong Hong., et al., Arxiv 2023 | [project page](https://scalei3d.github.io/LRM/)
 
 - [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/abs/2311.15475) Yawar Siddiqui, et al., Arxiv 2023 | [project page](https://nihalsid.github.io/mesh-gpt/)
+
+- [CAD: Photorealistic 3D Generation via Adversarial Distillation](https://arxiv.org/pdf/2312.06663.pdf) Ziyu Wan, et al., Arxiv 2023 | [project page](http://raywzy.com/CAD/)
 
 
