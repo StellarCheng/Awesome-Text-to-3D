@@ -103,6 +103,14 @@ A list of Text/Img-to-3D works. This repo mainly contains the 3D learning from 2
 
 - [GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models](https://arxiv.org/abs/2310.08529) Taoran Yi., et al., Arxiv 2023 | [project page](https://github.com/hustvl/GaussianDreamer)
 
+-  [Text2Immersion: Generative Immersive Scene with 3D Gaussians](https://ken-ouyang.github.io/text2immersion/index.html) Hao Ouyang, et al., Arxiv 2023 | [project page](https://ken-ouyang.github.io/text2immersion/index.html)
+
+- [StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D](https://arxiv.org/pdf/2312.02189.pdf) Pengsheng Guo, et al., Arxiv 2023
+
+- [DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling](https://arxiv.org/abs/2311.17082) Linqi Zhou, et al., Arxiv 2023 | [project page](https://alexzhou907.github.io/dreampropeller_page/)
+  
+- [HyperFields:Towards Zero-Shot Generation of NeRFs from Text](https://threedle.github.io/hyperfields/static/pdf/hyperfields.pdf) Sudarshan Babu, et al., Arxiv 2023 | [project page](https://threedle.github.io/hyperfields/)
+
 </details>
 
 <details open>
@@ -146,14 +154,6 @@ A list of Text/Img-to-3D works. This repo mainly contains the 3D learning from 2
 - [Free3D: Consistent Novel View Synthesis without 3D Representation](https://chuanxiaz.com/free3d/) Chuanxia Zheng, et al., Arxiv 2023 | [github](https://github.com/lyndonzheng/Free3D)
 
 - [Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting](https://arxiv.org/pdf/2312.13271.pdf) Junwu Zhang, et al., Arxiv 2023 | [github](https://github.com/junwuzhang19/repaint123)
-
-- [Text2Immersion: Generative Immersive Scene with 3D Gaussians](https://ken-ouyang.github.io/text2immersion/index.html) Hao Ouyang, et al., Arxiv 2023 | [project page](https://ken-ouyang.github.io/text2immersion/index.html)
-
-- [StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D](https://arxiv.org/pdf/2312.02189.pdf) Pengsheng Guo, et al., Arxiv 2023
-
-- [DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling](https://arxiv.org/abs/2311.17082) Linqi Zhou, et al., Arxiv 2023 | [project page](https://alexzhou907.github.io/dreampropeller_page/)
-  
-- [HyperFields:Towards Zero-Shot Generation of NeRFs from Text](https://threedle.github.io/hyperfields/static/pdf/hyperfields.pdf) Sudarshan Babu, et al., Arxiv 2023 | [project page](https://threedle.github.io/hyperfields/)
 
   </details>
 
