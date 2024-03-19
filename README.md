@@ -176,3 +176,7 @@ A list of Text/Img-to-3D works. This repo mainly contains the 3D learning from 2
 - [CAD: Photorealistic 3D Generation via Adversarial Distillation](https://arxiv.org/pdf/2312.06663.pdf) Ziyu Wan, et al., Arxiv 2023 | [project page](http://raywzy.com/CAD/)
 
 
+## 2024
+  
+- [TripoSR: Fast 3D Object Reconstruction from a Single Image](https://arxiv.org/pdf/2403.02151.pdf) Dmitry Tochilkin, et al., Arxiv 2024 | [github](https://github.com/VAST-AI-Research/TripoSR)
+
