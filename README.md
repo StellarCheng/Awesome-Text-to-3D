@@ -109,7 +109,9 @@ A list of Text/Img-to-3D works. This repo mainly contains the 3D learning from 2
 
 - [DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling](https://arxiv.org/abs/2311.17082) Linqi Zhou, et al., Arxiv 2023 | [project page](https://alexzhou907.github.io/dreampropeller_page/)
   
-- [HyperFields:Towards Zero-Shot Generation of NeRFs from Text](https://threedle.github.io/hyperfields/static/pdf/hyperfields.pdf) Sudarshan Babu, et al., Arxiv 2023 | [project page](https://threedle.github.io/hyperfields/)
+- [HyperFields:Towards Zero-Shot Generation of NeRFs from Text](https://threedle.github.io/hyperfields/static/pdf/hyperfields.pdf) Sudarshan Babu, et al., ICML 2024 | [project page](https://threedle.github.io/hyperfields/)
+
+
 
 </details>
 
